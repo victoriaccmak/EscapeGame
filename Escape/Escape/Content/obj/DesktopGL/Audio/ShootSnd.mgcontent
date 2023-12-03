@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS3/Escape/Escape/Content/Audio/ShootSnd.wav</SourceFile>
+  <SourceTime>2023-06-12T23:27:59.7955607-04:00</SourceTime>
+  <DestFile>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS3/Escape/Escape/Content/bin/DesktopGL/Audio/ShootSnd.xnb</DestFile>
+  <DestTime>2023-06-12T23:38:01.4115965-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-03-26T15:26:20.5440824-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-03-26T15:26:20.5440824-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,16 +1,16 @@
-#Escape Game
+# Escape Game
 
-##Project Description
+## Project Description
 
 Escape the House is a game written in C# for my final project of the grade 12 computer science course (ISC4U). It earned a 100% in the course. In this game, you try to escape a haunted house by finding a hidden key to escape 5 different rooms.
 
 Using C# with Monogame in Visual Studios, an immersive game was created from scratch. With a stronger focus on programming in the course, the graphics in this game were taken from the internet; however, I've edited them with Pixlr, a photoshop software. Some of the images are drawn by myself using Paint. Using the Monogame Pipeline Tool, these graphics are included into the project.
 
-##How to Install and Run the Game
+## How to Install and Run the Game
 
 In order to run the game, Visual Studios 2019 is required. The entire folder, Escape, can be cloned on to your own machine to be run. 
 
-##How to Play
+## How to Play
 
 To play the game, the player can start by creating a new profile so that their progress is stored. Press the "New User" button to create a new profile, type in your name, and press "Continue Progress" to start. 
 
@@ -26,7 +26,7 @@ Monsters can also go over boxes, folded barricades and chairs, but not through w
 
 This game is not easy. Good Luck and Have Fun!!! 
 
-##Future Improvements
+## Future Improvements
 
 While the game fully functions and all graphics are visually pleasing, the way that the monsters move due to the path searching algorithm is awkward and needs to be fixed. When the monsters are moving in a straight line, they turn to the side briefly, which is not intended.
 

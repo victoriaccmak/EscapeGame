@@ -6,6 +6,8 @@ Escape the House is a game written in C# for my final project of the grade 12 co
 
 Using C# with Monogame in Visual Studios, an immersive game was created from scratch. With a stronger focus on programming in the course, the graphics in this game were taken from the internet; however, I've edited them with Pixlr, a photoshop software. Some of the images are drawn by myself using Paint. Using the Monogame Pipeline Tool, these graphics are included into the project.
 
+This project demonstrates a mastery of OOP, file I/O, data structures (lists, tree structures, multi-dimensional arrays, stacks), a searching algorithm, and a strong manipulation of graphics, texts and sounds. To model the world, player, monsters, and objects, OOP was used. While encapsulation was demonstrated in the code for all classes, my use of inheritance and polymorphism was highlighted through the variation of monsters in the game (smart and dumb monsters) that inherit from a parent monster class.
+
 ## How to Install and Run the Game
 
 In order to run the game, Visual Studios 2019 is required. The entire folder, Escape, can be cloned on to your own machine to be run. 
